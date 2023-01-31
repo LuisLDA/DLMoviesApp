@@ -4,15 +4,15 @@
 Saludos del equipo de DLMovies si llegaste a este Readme **gracias!!**  😅 eso quiere decir que te interesa nuestro pequeño proyecto, quieres saber como funciona, o quizas vienes en busca de respuestas a algun error que encontraste.
 ![enter image description here](https://scontent.fuio1-2.fna.fbcdn.net/v/t39.30808-6/245439306_159650646372323_3737007095082925974_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeErfRW-STT4Hi2BRjUBFVUAa44Kasiy6_9rjgpqyLLr_xw6554KdMKzCLpeSKpVyRiRzTV_PH15AzqlNzQewEkf&_nc_ohc=mfPT9ebNcCQAX_psnl4&_nc_ht=scontent.fuio1-2.fna&oh=00_AfBXk9iuJ7PNFCqW9ozOBPUGtJQ82nGgWPjbjwKgM38Qbg&oe=63DC8CB5)
 
-# Redes 
+# Redes Sociales
 Antes que nada te invito a seguirnos en nuestras redes sociales por ahora solo Facebook 😅 y unirte a nuestro grupo de Telegram o si prefieres puedes mandarnos un correo.
-🌐[Página de Facebook](https://www.facebook.com/profile.php?id=100075875987375)
-🌐[Grupo de telegram ](https://t.me/+QKzYUp13p3xiMmIx)
-🌐[DLMovies@outlook.es](DLMovies@outlook.es)
+* 🌐[Página de Facebook](https://www.facebook.com/profile.php?id=100075875987375)
+* 🌐[Grupo de telegram ](https://t.me/+QKzYUp13p3xiMmIx)
+* 🌐[DLMovies@outlook.es](DLMovies@outlook.es)
 ## Infracciones por derecho de autor
 
 DLMovies como puede que muchos se hallan dado cuenta funciona como un navegador web que lo único que hace es recolectar el contenido de ciertas páginas web y mostrarlas al usuario por lo que no almacena nada en sus servidores y por ende no tenemos control sobre el contenido que estos pueden mostrar.
-## Sobre el inicio de DLMovies
+# Sobre el inicio de DLMovies
 
 DLMovies surge como un proyecto diseñado para aprender a programar aplicaciones móviles que realice junto con unos colegas durante pandemia, si bien todo empezó como un proyecto para poder recolectar eventos de facebook y presentarlo de una manera agradable fue evolucionando hasta convertirse en lo que es hoy DLMovies pasando incluso por ser una app de anime y manga hasta una app de formularios.
 
@@ -24,7 +24,7 @@ Por esta razon se planteo la separación de DLMovies en una versión enfocada en
 ![Lanzamiento oficial 21 de enero](https://scontent.fuio1-1.fna.fbcdn.net/v/t39.30808-6/326356469_2181695485373208_8017439547500999491_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGXZTWt_QhhTsdPR3qvSR1ppnq2C5XFVzymerYLlcVXPLago_IvmbDYPuYun64ArjHqAb5v0r5H3w6Xzoe_xK13&_nc_ohc=BHD2aXi0KIUAX_TzTcm&_nc_ht=scontent.fuio1-1.fna&oh=00_AfAcdJZpf5HUy5bBwcriOXrHnsrxXw4Z3k6ViJulwO6t9g&oe=63DCFE89)
 
 
-## Sobre la falta de anuncios y como apoyar al proyecto
+# Sobre la falta de anuncios y como apoyar al proyecto
 Muchos pensaran que DLMovies deberia tener anuncios como muchas otras aplicaciones de peliculas y series, sin embargo diseñe esta aplicación precisamente para evitar eso y poder dar una facilidad de acceso al contenido para personas mayores que no entienden o no pueden muchas de las veces ver este contenido en sitios web si no es con la ayuda de terceros.
 
 > Anecdota sin relevancia: 
@@ -32,7 +32,9 @@ Muchos pensaran que DLMovies deberia tener anuncios como muchas otras aplicacion
 
 Si bien se puede usar otras apps para el mismo fin y que incluso tienen mejores funciones muchos estarán de acuerdo que si no tienes experiencia con los anuncios puedes llegar a frustrarte o incluso a infectar tu equipo de algun tipo de virus.
 
-## Sobre el código fuente y librerías
+Si te interesa apoyar el proyecto me ayudas mucho compartiendo mi aplicación y dejando una reseña positiva en redes sociales y si quieres alegrarme más podrias hacerte una cuenta en github y dar una estrella a este repositorio.
+
+# Sobre el código fuente y librerías
 
 Me gustaria liberar el código fuente para que mas personas puedan apoyar el proyecto sin embargo todavia requiero de tiempo para poder mejorarlo, si hay algo de lo que estoy consiente es el hecho de que si bien mi código mejoro con el ultimo lanzamiento, aun no es completamente entendible.
 
