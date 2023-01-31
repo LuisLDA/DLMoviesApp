@@ -9,7 +9,7 @@ Antes que nada te invito a seguirnos en nuestras redes sociales por ahora solo F
 * 🌐[Página de Facebook](https://www.facebook.com/profile.php?id=100075875987375)
 * 🌐[Grupo de telegram ](https://t.me/+QKzYUp13p3xiMmIx)
 * 🌐[DLMovies@outlook.es](DLMovies@outlook.es)
-## Infracciones por derecho de autor
+# Infracciones por derecho de autor
 
 DLMovies como puede que muchos se hallan dado cuenta funciona como un navegador web que lo único que hace es recolectar el contenido de ciertas páginas web y mostrarlas al usuario por lo que no almacena nada en sus servidores y por ende no tenemos control sobre el contenido que estos pueden mostrar.
 # Sobre el inicio de DLMovies
