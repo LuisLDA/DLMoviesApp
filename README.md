@@ -11,7 +11,7 @@ Antes que nada te invito a seguirnos en nuestras redes sociales por ahora solo F
 * 🌐[DLMovies@outlook.es](DLMovies@outlook.es)
 # Infracciones por derecho de autor
 
-DLMovies como puede que muchos se hallan dado cuenta funciona como un navegador web que lo único que hace es recolectar el contenido de ciertas páginas web y mostrarlas al usuario por lo que no almacena nada en sus servidores y por ende no tenemos control sobre el contenido que estos pueden mostrar.
+DLMovies como puede que muchos se hallan dado cuenta funciona como un navegador web que lo único que hace es recolectar el contenido de ciertas páginas web y mostrarlas al usuario, por lo que no almacena nada en sus servidores y por tal no tenemos control sobre el contenido que estos pueden mostrar.
 # Sobre el inicio de DLMovies
 
 DLMovies surge como un proyecto diseñado para aprender a programar aplicaciones móviles que realice junto con unos colegas durante pandemia, si bien todo empezó como un proyecto para poder recolectar eventos de facebook y presentarlo de una manera agradable fue evolucionando hasta convertirse en lo que es hoy DLMovies pasando incluso por ser una app de anime y manga hasta una app de formularios.
@@ -28,17 +28,17 @@ Por esta razon se planteo la separación de DLMovies en una versión enfocada en
 Muchos pensaran que DLMovies deberia tener anuncios como muchas otras aplicaciones de peliculas y series, sin embargo diseñe esta aplicación precisamente para evitar eso y poder dar una facilidad de acceso al contenido para personas mayores que no entienden o no pueden muchas de las veces ver este contenido en sitios web si no es con la ayuda de terceros.
 
 > Anecdota sin relevancia: 
-> Mi abuelo siempre compraba películas para ver en su DVD sin embargo con la pandemia y el confinamiento ya no pudo salir muy seguido y muchos contenidos o aun no salían de manera legal o estaban repartidos entre muchas plataformas a las cuales no tenia una suscripción.
+> Mi abuelo siempre compraba películas para ver en su DVD. Sin embargo, con la pandemia y el confinamiento, ya no pudo salir muy seguido y muchos contenidos aún no salían de manera legal o estaban repartidos entre muchas plataformas a las cuales no tenía una suscripción.
 
-Si bien se puede usar otras apps para el mismo fin y que incluso tienen mejores funciones muchos estarán de acuerdo que si no tienes experiencia con los anuncios puedes llegar a frustrarte o incluso a infectar tu equipo de algun tipo de virus.
+Si bien se pueden usar otras aplicaciones para el mismo fin y que incluso tienen mejores funciones, muchos estarán de acuerdo en que si no tienen experiencia con los anuncios, pueden llegar a frustrarse o incluso infectar su dispositivo con algún tipo de virus.
 
-Si te interesa apoyar el proyecto me ayudas mucho compartiendo mi aplicación y dejando una reseña positiva en redes sociales y si quieres alegrarme más podrias hacerte una cuenta en github y dar una estrella a este repositorio.
+Si te interesa apoyar el proyecto, me ayudas mucho compartiendo mi aplicación y dejando una reseña positiva en redes sociales. Y si quieres alegrarme aún más, podrías hacerte una cuenta en GitHub y dar una estrella a este repositorio y seguirme.
 
 # Sobre el código fuente y librerías
 
-Me gustaria liberar el código fuente para que mas personas puedan apoyar el proyecto sin embargo todavia requiero de tiempo para poder mejorarlo, si hay algo de lo que estoy consiente es el hecho de que si bien mi código mejoro con el ultimo lanzamiento, aun no es completamente entendible.
+Me gustaría liberar el código fuente para que más personas puedan apoyar el proyecto. Sin embargo, todavía requiero más tiempo para poder mejorarlo. Si hay algo de lo que estoy consciente, es el hecho de que, aunque mi código mejoró con el último lanzamiento, aún no es completamente comprensible.
 
- Mientras tanto te puedo proporcionar algunos recursos que fueron clave para que yo pueda entender el desarrollo de este tipo de aplicaciones.
+Mientras tanto, te puedo proporcionar algunos recursos que fueron clave para que yo pudiera entender el desarrollo de este tipo de aplicaciones. Será un placer ayudarte a avanzar en tu propio proyecto.
  
 
 > Nota: Android avanza muy rapido y puede que muchas funciones o formas de hacer ciertas cosas ya esten obsoletas te recomiendo no rendirte y consultar por tu cuenta en la documentación oficial que no te asuste.
