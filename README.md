@@ -2,7 +2,7 @@
 
 
 Saludos del equipo de DLMovies si llegaste a este Readme **gracias!!**  😅 eso quiere decir que te interesa nuestro pequeño proyecto, quieres saber como funciona, o quizas vienes en busca de respuestas a algun error que encontraste.
-![enter image description here](https://scontent.fuio1-2.fna.fbcdn.net/v/t39.30808-6/245439306_159650646372323_3737007095082925974_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeErfRW-STT4Hi2BRjUBFVUAa44Kasiy6_9rjgpqyLLr_xw6554KdMKzCLpeSKpVyRiRzTV_PH15AzqlNzQewEkf&_nc_ohc=mfPT9ebNcCQAX_psnl4&_nc_ht=scontent.fuio1-2.fna&oh=00_AfBXk9iuJ7PNFCqW9ozOBPUGtJQ82nGgWPjbjwKgM38Qbg&oe=63DC8CB5)
+![Lanzamiento](https://github.com/LuisLDA/DLMoviesApp/blob/main/Imagenes/Lanzamiento.jpg?raw=true)
 
 # Redes Sociales
 Antes que nada te invito a seguirnos en nuestras redes sociales por ahora solo Facebook 😅 y unirte a nuestro grupo de Telegram o si prefieres puedes mandarnos un correo.
@@ -17,7 +17,7 @@ DLMovies como puede que muchos se hallan dado cuenta funciona como un navegador 
 DLMovies surge como un proyecto diseñado para aprender a programar aplicaciones móviles que realice junto con unos colegas durante pandemia, si bien todo empezó como un proyecto para poder recolectar eventos de facebook y presentarlo de una manera agradable fue evolucionando hasta convertirse en lo que es hoy DLMovies pasando incluso por ser una app de anime y manga hasta una app de formularios.
 
 DLMovies surge en 2021 en sus primeras versiones con un menú inferior que muchos posiblemente no recuerden una estética descuidada y muchas fallas de optimización. Esta versión incluso fue desarrollada con Java
-![Esta versión fue presentada el 21 de octubre de 2021](https://scontent.fuio1-2.fna.fbcdn.net/v/t39.30808-6/247885139_166057665731621_2903785669036684897_n.png?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeF90dgaj30q3EvDs_xt730ZArFCCYolzr8CsUIJiiXOv7-BFHLWpHKUZFXnaFMLaLqgawTmyJnyoO8s2Rl3a3m5&_nc_ohc=1dMX_25MZZsAX-rP4ZY&_nc_ht=scontent.fuio1-2.fna&oh=00_AfBSyXpOFkupjv-sTS4IUKI_STPexgrdPYKA9ombEH0VfA&oe=63DE0B6E)
+![Esta versión fue presentada el 21 de octubre de 2021](https://github.com/LuisLDA/DLMoviesApp/blob/main/Imagenes/Version%20previa.jpg?raw=true)
 
 Desde esa fecha DLMovies estuvo en una beta durante varios meses donde sufrió cambios como la adición de un menú lateral, soporte para dispositivos con Android TV entre otras cosas que ha medida que eran añadidas hizo que el código se volviera incapaz de mantener.
 Por esta razon se planteo la separación de DLMovies en una versión enfocada en TV [DLMoviesTV](https://github.com/LuisLDA/DLMoviesTVApp) y otra para dispositivos móviles fue aquí que se decidió hacer el salto de java a kotlin y con esto dar por finalizado el soporte para dispositivos con Android 5 y 6 y a inicios de este año seria lanzada la primera versión estable que si bien muchos no notarían muchos cambios nos permitió incorporar mejores practicas de diseño y hacer un código mas mantenible
